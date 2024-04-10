@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130320075968",
+    "project_id": "ayna-assignment",
+    "storage_bucket": "ayna-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130320075968:android:bef6eace96812c035d7125",
+        "android_client_info": {
+          "package_name": "com.example.ayna_ui_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABvpGl2_uLvLkgNwb3c__4glvN_CaftNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130320075968:android:189c5c60ebdb86c35d7125",
+        "android_client_info": {
+          "package_name": "com.example.music_app_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABvpGl2_uLvLkgNwb3c__4glvN_CaftNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
